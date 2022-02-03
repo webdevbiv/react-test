@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webdevbiv/react-test.git/static/css/main.073c9b0a.css",
+    "main.js": "/webdevbiv/react-test.git/static/js/main.66b440cd.js",
+    "static/js/787.223550ad.chunk.js": "/webdevbiv/react-test.git/static/js/787.223550ad.chunk.js",
+    "static/media/logo.svg": "/webdevbiv/react-test.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/webdevbiv/react-test.git/index.html",
+    "main.073c9b0a.css.map": "/webdevbiv/react-test.git/static/css/main.073c9b0a.css.map",
+    "main.66b440cd.js.map": "/webdevbiv/react-test.git/static/js/main.66b440cd.js.map",
+    "787.223550ad.chunk.js.map": "/webdevbiv/react-test.git/static/js/787.223550ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.66b440cd.js"
+  ]
+}
