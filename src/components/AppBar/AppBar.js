@@ -2,9 +2,9 @@ import React from 'react';
 
 
 const AppBar = () => {
-    return <div>
-        <h2>App Bar</h2>
-    </div>
+    return <>
+        <h2>React Test</h2>
+    </>
 };
 
 
